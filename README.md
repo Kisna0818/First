@@ -1,4 +1,4 @@
 # First
 My first repository
 <br>
-Author - Ritik Maheshwari
+Author - Ritik Maheshwari Mathura
